@@ -281,6 +281,9 @@
       /* Git History — Adds a minimal `git log` panel. */
       "guodongsun.vscode-git-cruise",
 
+      /* Java Extension Pack. */
+      "vscjava.vscode-java-pack",
+
       /* Live Preview — For previewing HTML builds directly in VS Code. */
       "ms-vscode.live-server",
 
